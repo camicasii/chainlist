@@ -6814,6 +6814,11 @@ export const extraRpcs = {
       },
     ],
   },
+  4284265: {
+    rpcs: [
+      "https://rpc.zuux.network"
+    ],
+  },
 };
 const allExtraRpcs = mergeDeep(llamaNodesRpcs, extraRpcs);
 
